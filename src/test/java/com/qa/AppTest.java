@@ -44,7 +44,7 @@ public class AppTest
         assertEquals( expectedResponse, actualResponse);
     }
 
-        @Test
+    @Test
     public void test_sayREEE_should_return_REEE()
     {
         // Arrange
