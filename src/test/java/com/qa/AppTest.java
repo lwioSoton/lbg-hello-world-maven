@@ -52,7 +52,7 @@ public class AppTest
         String expectedResponse = "REEE";
 
         // Act
-        actualResponse = sayHello();
+        actualResponse = sayREEE();
         // Assert
         assertEquals( expectedResponse, actualResponse);
     }
