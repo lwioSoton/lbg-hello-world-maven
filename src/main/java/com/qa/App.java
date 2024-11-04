@@ -22,6 +22,10 @@ public class App
         return "Hello World!";
     }
 
+    public static String sayREEE(){
+        return "REEE";
+    }
+
     public static String sayGoodbye(){
         return "Goodbye World!";
     }
